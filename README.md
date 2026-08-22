@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/frankysuperrrr/leetcodesolvss/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/frankysuperrrr/leetcodesolvss/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/frankysuperrrr/leetcodesolvss/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/frankysuperrrr/leetcodesolvss/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
